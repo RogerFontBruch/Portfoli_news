@@ -1,0 +1,17 @@
+#body{
+    background-color: black;
+}
+.titol{
+    font-size: 200px;
+    position: fixed;
+    background: url(MEDIA/ArtistsRendition.jpg)
+        no-repeat;
+    background-repeat: no-repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: cover;
+    margin-left: 450px;
+    margin-top: 140px;
+    
+    
+}
